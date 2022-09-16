@@ -1,0 +1,8 @@
+opencv
+jupyter
+matplotlib
+pandas
+xlrd
+tensorflow
+
+# pip install –upgrade imutils
